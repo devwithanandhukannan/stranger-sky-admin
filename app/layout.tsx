@@ -3,7 +3,7 @@ import { headers } from 'next/headers';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Stranger Sky Console',
+  title: 'Untold Console',
   icons: {
     icon: [
       { url: '/favicon.ico', sizes: 'any' },
